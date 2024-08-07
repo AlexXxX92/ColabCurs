@@ -1,0 +1,9 @@
+vk:
+  token: token_group
+  token_user: token_user
+db:
+  db_name: db
+  db_user: db_user
+  db_pass: db_pass
+  db_host: db_host
+  db_port: db_port
